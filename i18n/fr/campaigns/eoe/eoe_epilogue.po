@@ -12,7 +12,7 @@ msgstr ""
 "Content-Transfer-Encoding: \n"
 
 msgid "If Roald Ellsworth and Avery Claypool both survived:"
-msgstr ""
+msgstr "Si Roald Ellsworth et Avery Claypool ont tous deux survécu "
 
 msgid ""
 "You find Ellsworth and Claypool on the aft deck of the Theodosia, enjoying a majestic view of the Atlantic. It has been several days since your escape, and the mood is one of relief, mixed with sorrow and guilt. The two men greet you as you approach, shifting aside to offer you a place to enjoy the view, as well. After a moment of contemplation, you ask what is in store for the explorers. The two of them share a knowing glance. \"A vacation, I think,\" Ellsworth says. \"A very, very long vacation.\"\n"
@@ -21,9 +21,13 @@ msgid ""
 "\"Really? I was thinking somewhere nice and remote. Just the two of us,\" Claypool hints.\n"
 "You chuckle and leave the two of them to their vacation plans. Perhaps there is hope for the lot of you, after all."
 msgstr ""
-
+"Vous trouvez Ellsworth et Claypool sur le pont arrière du Théodosia, en train de profiter d'une vue majestueuse sur l'Atlantique. Plusieurs jours se sont écoulés depuis votre fuite, et l'ambiance est au soulagement malgré une pointe de chagrin et de culpabilité. Les deux hommes vous saluent en vous voyant approcher et s'écartent pour vous permettre de profiter également de la vue. Vous observez l'océan pendant un moment, puis demandez aux explorateurs quels sont leurs plans pour la suite. Ils se jettent un regard entendu. \"Des vacances, je crois,\", suggère Claypool. \" De très, très longues vacances.\"\n
+"\"Rien que du ciel bleu et du soleil,\" suggère Claypool.\n"
+"\"Exactement. Et de préfèrence dans un lieu qui figure sur une carte cette fois,\" ajoute Ellsworth en souriant.\n"
+"\"Vraiment ? Je pensais plutôt à un endroit agréable et isolé. Rien que nous deux,\" rétorque Claypool.\n"
+"Vous éclatez de rire et laissez les deux hommes à leurs projets de vacances. Peut-être y a-t-il de l'espoir en ce monde, après tout.\n"
 msgid "If Dr. Amy Kensler and Dr. Mala Sinha both survived:"
-msgstr ""
+msgstr "Si le Dr Amy Kensler et le Dr Mala Sinha ont toutes deux survécu:"
 
 msgid ""
 "You have seen Dr. Kensler face down impossible creatures and nightmarish environs, but it is this final trial that seems to rattle her most. She paces and fidgets and quietly recites sentences until finally, Dr. Sinha arrives. You'd leave her to her privacy, but she requested you stay. \"Mala,\" she says dryly, despite all of the practice. \"I was wondering—that is, I was—I would like to—\" she clears her throat and tries again. \"Would you like to have dinner again, sometime? And perhaps another show?\" she finally manages to say.\n"
@@ -32,7 +36,11 @@ msgid ""
 "\"Amy, you are highly astute, incredibly well read, and a true prodigy in your field. But when it comes to this—\" Dr. Sinha motions to and fro, indicating something in the air between them, \"you are somewhat of a dimwit.\"\n"
 "To your surprise, Amy chuckles and grins. \"Yes. Yes, I suppose I am.\""
 msgstr ""
-
+"Vous avez vu le Dr kensler affronter des créatures inimaginables et des environnements cauchemardesques, mais cette dernière épreuve semble être la plus difficile pour elle. Elle fait les cent pas en récitant des phrasesà voix basse jusqu'à ce que le Dr Sinha arrive enfin. Vous les auriez bien laissé à leur vie privée, mais le Dr Kensler vous a demandé de rester. \"Mala,\" commence-t-elle sèchement, malgré son entrainement. \"Je me demandais... Je veux dire, J'étais... J'aimerais bien-\" elle se racle la gorge et recommence. \"Aimerais-tu dîner à nouveau avec moi, un de ces jours? Et peut-être voir un autre spectacle après ?\ dit-elle finalement.\n"
+"Le Dr Sinha lève les yeux au ciel puis esquisse un sourire. \"Bien sûr, idiote.\"\n"
+"Le Dr Kensler n'en revient pas. Vous avez l'impression que personne n'avait jamais osé lui parler sur ce ton auparavant.\n"
+"\"Amy, vous êtes très intelligente, incroyablement instruite et une véritable sommité dans votre domaine. Mais quand il s'agit de...\" Le Dr Sinha fait un geste les désignant toutes les deux, \"vous êtes un peu stupide.\"\n"
+"A votre surprise, Amy éclate de rire. \"Oui, j'imagine que c'est vrai.\"\n"
 msgid "If Professor William Dyer and Danforth both survived:"
 msgstr ""
 
